@@ -21,7 +21,7 @@ const App = () => {
         <h1>Exercício 2 da aula 1</h1>
 
         <h6>
-         <PrecisoEstudar nomeDaTecnologia={"Inglês"}></PrecisoEstudar>
+         <PrecisoEstudar nomeDaTecnologia={"inglês"}></PrecisoEstudar>
         </h6>
 
         </div>
