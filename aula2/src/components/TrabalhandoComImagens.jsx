@@ -1,11 +1,11 @@
 import React from 'react'
-import RavensImg from '../assets/ravens.jpg'
+import DriversImg from '../assets/25DriversHero.webp'
 
 const TrabalhandoComImagens = () => {
   return (
     <div>
-        <img src='eagles.jpg' alt='Eagles' />
-        <img src={RavensImg} alt='Ravens' />
+        <img src='./f175.webp' /><br/>
+        <img src={DriversImg} alt='Drivers' />
     </div>
   )
 }

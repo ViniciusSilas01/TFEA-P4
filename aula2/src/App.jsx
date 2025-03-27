@@ -1,10 +1,10 @@
 import React from 'react'
-import HookQuina from './components/HookQuina'
+import TrabalhandoComImagens from './components/TrabalhandoComImagens'
 
 const App = () => {
   return (
     <div>
-      <HookQuina />
+      <TrabalhandoComImagens />
     </div>
   )
 }
