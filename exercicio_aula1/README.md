@@ -8,7 +8,7 @@ Este exercício conterá duas estapas. A primeira tendo como objetivo o desenvol
 
 **Primeira etapa**:
 - Criar quatro componentes intitulados Adicao, Subtracao, Multiplicacao e Divisao.
-- Implementar dentro da tag h1 a seguite frase "O resultado de num1 + num2 é igual a: ", para efetuar renderização dos componentes.
+- Implementar dentro de uma tag h1 a seguite frase "O resultado de num1 + num2 é igual a: ", para efetuar renderização dos componentes.
 - Importar os componentes criados para o App.js e passar os valores de num1 + num2 como propriedade com objetivo de exibir toda a frase em tela. 
 
 **Segunda etapa**
