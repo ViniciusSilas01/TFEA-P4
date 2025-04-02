@@ -7,8 +7,16 @@ Este exercício conterá duas estapas. A primeira tendo como objetivo o desenvol
 ### Intruções
 
 **Primeira etapa**:
-- Criar quatro componentes intitulados Adicao, Subtracao, Multiplicacao e Divisao.
+- Criar quatro componentes no React intitulados Adicao, Subtracao, Multiplicacao e Divisao.
 - Implementar dentro de uma tag h1 a seguite frase "O resultado de num1 + num2 é igual a: ", para efetuar renderização dos componentes.
 - Importar os componentes criados para o App.js e passar os valores de num1 + num2 como propriedade com objetivo de exibir toda a frase em tela. 
 
-**Segunda etapa**
+**Segunda etapa**:
+- Criar um componente intitulado no React intitulado PrecisoEstudar.jsx.
+- Implementar dentro de uma tag h1 a seguinte frase "Preciso estudar nome-de-alguma-tecnologia", em que o componente anteriormente criado será renderizado.
+- Adicionar uma propriedade chamada "nomeDaTecnologia" para o componente criado, que exibirá o nome da tecnologia na frase.
+- Importar o componente criado para o App.js e passar o nome da tecnologia como propriedade, com o objetivo de exibir a frase completa na tela.
+
+# Resultado no Navegador
+
+
