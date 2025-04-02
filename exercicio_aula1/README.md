@@ -17,6 +17,18 @@ Este exercício conterá duas estapas. A primeira tendo como objetivo o desenvol
 - Adicionar uma propriedade chamada "nomeDaTecnologia" para o componente criado, que exibirá o nome da tecnologia na frase.
 - Importar o componente criado para o App.js e passar o nome da tecnologia como propriedade, com o objetivo de exibir a frase completa na tela.
 
-# Resultado no Navegador
+## Resultado no Navegador
+
+![resultados png](https://github.com/user-attachments/assets/4071a7e1-9da1-4fce-b6ab-356c1a1e5667)
+
+## Tecnologias Utilizadas
+
+- Visual Studio Code.
+- Node.js.
+- NPM.
+- Vite.
+- React.
+- JavaScript.
+
 
 
