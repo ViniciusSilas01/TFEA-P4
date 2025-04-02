@@ -4,7 +4,7 @@
 
 Este exercício conterá duas estapas. A primeira tendo como objetivo o desenvolvimento de quatro componentes intitulados com os sinais matemáticos, que deverá renderizar o resultado da operação realizada com base em num1 + num2. A segunda tendo como objetivo o desenvolvimento de um componente intitulado PrecisoEstudar.jsx, que deverá renderizar a frase "Preciso estudar nome-de-alguma-tecnologia", com base numa propriedade de exibição.
 
-### Intruções
+## Intruções
 
 **Primeira etapa**:
 - Criar quatro componentes no React intitulados Adicao, Subtracao, Multiplicacao e Divisao.
