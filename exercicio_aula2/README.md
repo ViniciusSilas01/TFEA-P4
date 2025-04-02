@@ -4,7 +4,7 @@
 
 O objetivo deste exercício é o desenvolvimento de dois componentes, utilizando Hooks em seu tipo useState, um recurso do React. O primeiro Hook será intitulado HookContador, e deverá alterar o valor do contador para o valor atual + 1. O segundo Hook será intitulado HookMegaSena, e deverá sorteador 6 elementos em números de 1 a 60.
 
-### Instruções
+## Instruções
 
 **HookContador**: 
 - Criar um componente intitulado HookContador. 
