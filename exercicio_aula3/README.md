@@ -27,7 +27,7 @@ O objetivo deste exercício é o desenvolvimento de quatro componentes, com orie
 - Percorrer o Array através de .map de modo que renderize estes três alunos na tela.
 
 **NovoAluno**:
-- Recriar o componente "Aluno", sendo desta vez intitulado "NovoAluno", utilizando Fragments de modo a evitar o elemento pai "<div>".
+- Recriar o componente "Aluno", desta vez intitulado "NovoAluno", utilizando Fragments de modo a evitar o elemento pai "div".
 - O componente "NovoAluno" deve renderizar as seguintes informações sobre um aluno: nome; e-mail; curso; media; status.
 - Utilizar o recurso Destructuring para extrair as propriedades nome, e-mail, curso, media e status simultaneamente, ao invés de cada propriedade individualmente.
 - Renderizar o componente "NovoAluno" em um elemento da página.
