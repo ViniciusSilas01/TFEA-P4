@@ -4,7 +4,6 @@
 
 O objetivo deste exercício é o desenvolvimento de quatro componentes, com orientações de renderizações distintas, utilizando os seguintes recursos do React: Props; Operador Ternário; Destructuring em Props; Fragments. 
 
-
 ## Instruções
 
 **EstouConseguindoAprenderReact**:
