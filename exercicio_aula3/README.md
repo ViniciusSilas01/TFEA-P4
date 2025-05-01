@@ -2,34 +2,34 @@
 
 ## Objetivo
 
-O objetivo deste exercício é o desenvolvimento de quatro componentes, com orientações de renderizações distintas, utilizando os seguintes recursos do React: Props; Operador Ternário; Destructuring em Props; Fragments. 
+O objetivo deste exercício é o desenvolvimento de quatro Componentes, com instruções de renderizações distintas, utilizando os seguintes recursos do React: Props; Operador Ternário; Destructuring em Props; Fragments. 
 
 ## Instruções
 
 **EstouConseguindoAprenderReact**:
-- Criar um componente intitulado "EstouConseguindoAprenderReact".
+- Criar um Componente intitulado "EstouConseguindoAprenderReact".
 - Implementar um Operador Ternário que verifique uma Props intitulada "estouConsequindo".
 - Sendo a condição True, em tela deve renderizar "Estou indo bem...".
 - Sendo a condição False, em tela deve renderizar "Preciso estudar mais". 
 
 **EstaComSono**:
-- Criar um componente intitulado "EstaComSono".
+- Criar um Componente intitulado "EstaComSono".
 - Implementar um Operador Ternário que verifique uma Props intitulada "comSono".
 - Sendo a condição True, em tela deve renderizar "Hora de descansar".
 - Sendo a condição False, em tela deve renderizar "Bora estudar mais um pouco!".
 
 **Aluno**: 
-- Criar um componente intitulado "Aluno", que renderize informações sobre um aluno, como: nome; e-mail; curso.
-- Utilizar o recurso Destructuring para extrair as propriedades nome, e-mail e curso simultaneamente, ao invés de cada propriedade individualmente.
-- Renderizar o componente "Aluno" em um elemento da página.
+- Criar um Componente intitulado "Aluno", que renderize informações sobre um aluno, como: nome; e-mail; curso.
+- Utilizar o recurso Destructuring para extrair as Propriedades nome, e-mail e curso simultaneamente, ao invés de cada propriedade individualmente.
+- Renderizar o Componente "Aluno" em um elemento da página.
 - Criar um Array contendo três alunos em objetos literais.
 - Percorrer o Array através de .map de modo que renderize estes três alunos na tela.
 
 **NovoAluno**:
-- Recriar o componente "Aluno", desta vez intitulado "NovoAluno", utilizando Fragments de modo a evitar o elemento pai "div".
-- O componente "NovoAluno" deve renderizar as seguintes informações sobre um aluno: nome; e-mail; curso; media; status.
+- Recriar o Componente "Aluno", desta vez intitulado "NovoAluno", utilizando Fragments de modo a evitar o elemento pai "div".
+- O Componente "NovoAluno" deve renderizar as seguintes informações sobre um aluno: nome; e-mail; curso; media; status.
 - Utilizar o recurso Destructuring para extrair as propriedades nome, e-mail, curso, media e status simultaneamente, ao invés de cada propriedade individualmente.
-- Renderizar o componente "NovoAluno" em um elemento da página.
+- Renderizar o Componente "NovoAluno" em um elemento da página.
 - Criar um Array contendo três alunos em objetos literais.
 - Percorrer o Array através de .map de modo que renderize estes três alunos na tela.
 - Implementar um Operador Ternário ao item "status" de modo a exibir as mensagens "Aprovado(a)" sendo a média maior ou igual a 7, ou "Reprovado(a)" sendo a média menor que 7.
