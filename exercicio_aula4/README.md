@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-O objetivo deste exercício é o desenvolvimento de três componentes, que desta vez, cada componente conterá um CSS Global para estilização das renderizações no Browser, conforme instruções específicas para cada componente.
+O objetivo deste exercício é o desenvolvimento de três componentes, que desta vez, cada componente contará com o CSS Global estilizado para renderizações no Browser, conforme instruções específicas para cada componente.
 
 ## Instruções
 
