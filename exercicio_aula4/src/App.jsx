@@ -6,7 +6,7 @@ import Campanha from './components/Campanha'
 const App = () => {
   return (
     <div>
-      <Campanha mes="fevereiro" />
+      <Exercicio2 />
     </div>
   )
 }
