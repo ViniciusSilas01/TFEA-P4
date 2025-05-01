@@ -28,22 +28,21 @@ O objetivo deste exercício é o desenvolvimento de três componentes, que desta
 
 **Exercicio1**:
 
-![alt text](exercicio1.png)
+
 
 **Exercicio2**:
 
-![alt text](exercicio2.png)
+
 
 **Campanha**:
 
 - Janeiro
-![alt text](campanhajan.png)
+
 
 - Fevereiro
-![alt text](campanhafev.png)
+
 
 - Março
-![alt text](campanhamar.png)
 
 
 ## Tecnologias Utilizadas
