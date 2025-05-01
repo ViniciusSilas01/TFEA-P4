@@ -28,22 +28,27 @@ O objetivo deste exercício é o desenvolvimento de três componentes, que desta
 
 **Exercicio1**:
 
-
+![exercicio1](https://github.com/user-attachments/assets/5151af9d-b64e-4784-82be-d7624e00f4a6)
 
 **Exercicio2**:
 
+![exercicio2](https://github.com/user-attachments/assets/5bb1a348-f250-4c89-9be8-13c2133556d6)
 
 
 **Campanha**:
 
 - Janeiro
 
+![campanhajan](https://github.com/user-attachments/assets/c7eebf9c-88d4-4fa5-91fe-ef27a9da3837)
+
 
 - Fevereiro
 
+![campanhafev](https://github.com/user-attachments/assets/2dff8122-0438-489c-b907-b4c2517e04bc)
 
 - Março
 
+![campanhamar](https://github.com/user-attachments/assets/e5ca1786-e2c7-45d9-8138-d167997b6c70)
 
 ## Tecnologias Utilizadas
 
