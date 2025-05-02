@@ -1,0 +1,35 @@
+{
+    "alunos": [
+      {
+        "id": 1,
+        "nome": "Ana Paula Ferreira",
+        "email": "ana.paula@gmail.com",
+        "curso": "Sistemas para Internet"
+      },
+      {
+        "id": 2,
+        "nome": "Carlos Eduardo Lima",
+        "email": "carlos.lima@gmail.com",
+        "curso": "Engenharia de Software"
+      },
+      {
+        "id": 3,
+        "nome": "Juliana Martins",
+        "email": "juliana.martins@gmail.com",
+        "curso": "Análise e Desenvolvimento de Sistemas"
+      },
+      {
+        "id": 4,
+        "nome": "Lucas Henrique Rocha",
+        "email": "lucas.rocha@gmail.com",
+        "curso": "Ciência da Computação"
+      },
+      {
+        "id": 5,
+        "nome": "Mariana Oliveira",
+        "email": "mariana.oliveira@gmail.com",
+        "curso": "Banco de Dados"
+      }
+    ]
+  }
+  
