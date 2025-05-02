@@ -6,7 +6,7 @@ const Noticias = () => {
   const [noticias, setNoticias] = useState([])
 
   useEffect(() => {
-    axios.get("http://localhost:3000noticias/") //request
+    axios.get("http://localhost:3000/noticias") //request
     .then(response => setNoticias(response.data)) //response
     .catch(error => console.error("Erro ao carregar a lista de notícias", error))
   }, [])
